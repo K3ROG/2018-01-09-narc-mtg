@@ -85,6 +85,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Single band, choose 80, 60, 40, 30, 20 or 17m; 5 W
 - Built-in WSPR beacon
+- $49
 
 ---
 
