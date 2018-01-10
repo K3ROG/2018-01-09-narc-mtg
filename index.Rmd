@@ -100,3 +100,4 @@ knitr::opts_chunk$set(echo = FALSE)
 - Where and when?
     - Central location
     - 2x/month
+- <http://k3rog.github.io/2018-01-09-narc-mtg/>
